@@ -1,1 +1,1 @@
-# Power-BI-dashboard-using-superstore-sales-dataset
+Using power bi made a dashboard of superstore sales of 2 years. 
